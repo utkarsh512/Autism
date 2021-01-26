@@ -1,4 +1,4 @@
-# Autism
+# Identification of Autism Spectrum Disorder using ML
 The goal of this report is to apply machine
 learning algorithms to classify autism spectrum
 disorder (ASD) patients and typically developing (TD)
